@@ -14,3 +14,4 @@ elif has_good_credit or has_high_income:
 else:
     down_payment = price * .2
     print('\n' f"Your down-payment for this property is, ₹ {down_payment}")
+
